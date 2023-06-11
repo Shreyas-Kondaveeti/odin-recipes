@@ -1,0 +1,13 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    color: rgba(0, 155, 255, 0.6);
+}
+
+/* body {
+    outline: red;
+    outline-color: red;
+    outline-width: 20;
+} */
